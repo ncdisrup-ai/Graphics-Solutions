@@ -1,11 +1,11 @@
-# Voice Text Solutions
-Text2Speech plus Speech2Text
+# Graphics Solutions
+GDP change plus Worldmap with geo information
 
 ## 🤔 What is this?
 **Description:**  
-Voice Text solutions with Gradio UI:
- - Text2Speech (TTS): facebook/fastspeech2-en-ljspeech
- - Speech2Text (STT): facebook/wav2vec2-base-960h
+Graphic solutions with Gradio UI:
+ - GDP change
+ - Worldmap with geo information
 
 Both use pipeline (from Huggingface) to "call" the models
 
