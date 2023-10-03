@@ -5,7 +5,7 @@ GDP change plus Worldmap with geo information
 **Description:**  
 Graphic solutions with Gradio UI:
  - GDP change: based matplolib.pyplot
- - Worldmap with geo informationm based plotly.express
+ - Worldmap with geo information based plotly.express
 
 ## 📚 Data
 
